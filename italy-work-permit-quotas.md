@@ -1,0 +1,10 @@
+# Italy Quota Work Permits (Decreto Flussi)
+
+> How the Decreto Flussi quota system works for non-EU workers in 2026: 43,300 non-seasonal entries, how they split, and when the Blue Card is the better route.
+
+
+<section> <span class="eyebrow">Visa routes</span> <h1 id="the-quota-route-decreto-flussi">The quota route: Decreto Flussi</h1> <p class="lede">If a role does not meet Blue Card conditions, the usual way in is an ordinary work permit within the annual entry quotas. Places are limited and applications open in set windows, so the calendar drives the plan.</p> </section> <section> <h2 id="2026-non-seasonal-quotas">2026 non-seasonal quotas</h2> <div class="tbl"><table> <thead><tr><th>Group</th><th class="num">Entries 2026</th></tr></thead> <tbody> <tr><td>Nationals of countries under art. 6, par. 2, letter a of the decree</td><td class="num">25,000</td></tr> <tr><td>Nationals of countries with cooperation agreements with Italy</td><td class="num">18,000</td></tr> <tr><td>Stateless persons and refugees</td><td class="num">300</td></tr> <tr><td><b>Total non-seasonal</b></td><td class="num"><b>43,300</b></td></tr> </tbody> </table></div>  </section> <section class="prose"> <h2 id="what-it-means-in-practice">What it means in practice</h2> <ul> <li><b>Nationality decides the pool.</b> Check the candidate's citizenship against the groups before any offer.</li> <li><b>Be ready before the window.</b> Places are shared by all employers in Italy. Contract, housing and documents should be prepared before applications open.</li> <li><b>Prefer the Blue Card when you can.</b> A graduate or experienced specialist paid above the threshold avoids the quota entirely: see <a href="eu-blue-card-italy.html">EU Blue Card</a>.</li> <li><b>The sponsor must be in Italy.</b> As Employer of Record we file the application, sign the stay contract and run payroll.</li> </ul> <div class="cta"><a class="btn" href="contact.html">Ask which route fits</a><a class="btn ghost" href="visa-routes.html">All routes</a></div> </section>
+
+
+---
+Source: https://italybluecard.com/italy-work-permit-quotas.html
